@@ -483,6 +483,7 @@ Alerts Panel
 ---
 
 
+
 ## Persistence
 
 All data is stored in the browser's `localStorage` under the `bnex_` namespace:

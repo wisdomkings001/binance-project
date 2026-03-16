@@ -6,6 +6,7 @@
 ![Binance Integration](https://img.shields.io/badge/Binance-Integrated-F3BA2F?style=for-the-badge&logo=binance&logoColor=black)
 ![Browser Native](https://img.shields.io/badge/Browser-Native-00D4FF?style=for-the-badge&logo=firefox&logoColor=white)
 ![AI Powered](https://img.shields.io/badge/AI-Powered-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+![live page] (https://wisdomkings001.github.io/OpenClaw-ai/)
 
 **Built for the Binance OpenClaw AI Build Competition (March 4–18, 2026)**
 
@@ -99,9 +100,8 @@
 ### 🎯 Purpose
 The AI Skills tab is your command center for generating professional trading signals using advanced technical analysis and AI insights.
 
-### 📸 Screenshot Reference
-```
 <img width="1366" height="768" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/7257b0ea-c5ad-43af-b270-83ce770bf167" />
+
 
 
 ### 🔄 How It Works
@@ -170,9 +170,8 @@ The AI Skills tab is your command center for generating professional trading sig
 ### 🎯 Purpose
 Real-time market overview with live price updates, sorting capabilities, and detailed coin analysis.
 
-### 📸 Screenshot Reference
-```
 <img width="1366" height="768" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/99adec78-8470-4bfd-b6db-76ce865be20c" />
+
 
 
 ### 🔄 Real-Time Features
@@ -186,9 +185,6 @@ Real-time market overview with live price updates, sorting capabilities, and det
 ### 📊 Coin Detail Panel
 
 Click any coin card to open detailed analysis:
-
-```
-<img width="1366" height="768" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/ceff03f2-19f6-44f3-9cbd-40c25972b772" />
 
 ```
 
@@ -267,8 +263,6 @@ The Bot tab is designed for **learning and education**, not auto-trading. It pro
 ### 🎯 Purpose
 Complete trading interface with paper trading practice, automated trading, and live Binance integration.
 
-### 📸 Screenshot Reference
-```
 <img width="1366" height="768" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/d1e9a8f5-6aa8-4990-9434-577aa957fbc9" />
 
 
@@ -283,7 +277,6 @@ Complete trading interface with paper trading practice, automated trading, and l
 
 #### 📊 Position Management
 
-```
 <img width="1366" height="768" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/e07cafa5-f59f-4058-8a4d-2d142b10e7fb" />
 
 ```
@@ -484,9 +477,6 @@ Calculate exact trades needed to achieve target portfolio allocations.
 ```
 [PORTFOLIO REBALANCER]
 
-<img width="1366" height="768" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/bc91f100-796f-4766-86cb-5ab0b924d3a8" />
-
-```
 
 #### 📊 Rebalancing Process
 
@@ -537,46 +527,9 @@ Calculate exact trades needed to achieve target portfolio allocations.
 ### 🎯 Purpose
 Comprehensive token safety assessment tool to identify risky assets before trading.
 
-### 📸 Screenshot Reference
 ```
-[INSERT AUDIT TAB SCREENSHOT HERE]
-┌─────────────────────────────────────────┐
-│  🔍 Audit - Token Safety Check          │
-│                                         │
-│  ┌─────────────────────────────────┐    │
-│  │  🛡️ Token Audit Tool           │    │
-│  │                                 │    │
-│  │  Select Token: [PEPE ▼]        │    │
-│  │                                 │    │
-│  │  [RUN AUDIT]                    │    │
-│  └─────────────────────────────────┘    │
-│                                         │
-│  📊 Audit Results:                   │
-│  ┌─────────────────────────────────┐    │
-│  │  Overall Safety: ⚠️ WARNING     │    │
-│  │  Safety Score: 62/100            │    │
-│  │                                 │    │
-│  │  📊 Risk Metrics:               │    │
-│  │  Volatility: ⚠️ WARNING         │    │
-│  │  Liquidity: ✅ SAFE              │    │
-│  │  Price Risk: ⚠️ WARNING          │    │
-│  │  Spread: ✅ SAFE                 │    │
-│  │  Market Cap: ⚠️ WARNING          │    │
-│  │                                 │    │
-│  │  💡 Recommendations:             │    │
-│  │  • High volatility detected     │    │
-│  │  • Consider smaller position    │    │
-│  │  • Use tight stop loss          │    │
-│  │  • Monitor liquidity closely     │    │
-│  └─────────────────────────────────┘    │
-└─────────────────────────────────────────┘
-```
+<img width="1366" height="768" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/ef8136eb-44fa-4019-9723-ee249429de07" />
 
-**📸 Actual Screenshot Needed:**
-- Capture Audit tab with token selection
-- Show audit results with safety score
-- Include risk metrics with color coding
-- Display recommendations and warnings
 
 ### 🛡️ Safety Assessment Framework
 
@@ -704,54 +657,6 @@ Comprehensive token safety assessment tool to identify risky assets before tradi
 
 ### 🎯 Purpose
 Self-learning system that tracks your trading patterns and provides smarter, data-driven recommendations over time.
-
-### 📸 Screenshot Reference
-```
-[INSERT AI MEMORY SCREENSHOT HERE]
-┌─────────────────────────────────┐
-│  🧠 AI Memory                   │
-│                                 │
-│  📊 Overall Performance:        │
-│  ┌─────────┬─────────┬─────────┐ │
-│  │ Trades  │ Win Rate│ Avg P&L │ │
-│  ├─────────┼─────────┼─────────┤ │
-│  │   45    │   68%   │ +$12.50 │ │
-│  └─────────┴─────────┴─────────┘ │
-│                                 │
-│  📈 Win/Loss Breakdown:         │
-│  ┌─────────┬─────────┬─────────┐ │
-│  │  Wins   │ Losses  │ Total   │ │
-│  ├─────────┼─────────┼─────────┤ │
-│  │   31    │   14    │   45    │ │
-│  │ +$1,250 │ -$875   │ +$375   │ │
-│  └─────────┴─────────┴─────────┘ │
-│                                 │
-│  🎯 Performance by Coin:        │
-│  ┌─────────┬─────────┬─────────┐ │
-│  │ Symbol  │ Win Rate│ Trades  │ │
-│  ├─────────┼─────────┼─────────┤ │
-│  │ BTC     │   75%   │   12    │ │
-│  │ ETH     │   60%   │    8    │ │
-│  │ SOL     │   80%   │    5    │ │
-│  │ BNB     │   67%   │    6    │ │
-│  └─────────┴─────────┴─────────┘ │
-│                                 │
-│  📚 Recent Lessons:              │
-│  • 2026-03-15: BTC LONG WON     │
-│    +$47.20 via SL/TP. WR 75%    │
-│  • 2026-03-14: ETH SHORT LOST   │
-│    -$23.50 via manual. WR 60%    │
-│                                 │
-│  [Clear Memory] [Export Data]    │
-└─────────────────────────────────┘
-```
-
-**📸 Actual Screenshot Needed:**
-- Capture AI Memory panel with black background
-- Show overall performance statistics
-- Include win/loss breakdown with totals
-- Display coin-specific performance table
-- Show recent lessons learned section
 
 ### 🎯 Learning Mechanism
 
@@ -927,40 +832,6 @@ The AI uses memory to provide:
 - **No Middleman**: OpenClaw doesn't store or access keys
 - **Encryption**: Browser's built-in encryption
 
-### 🎛️ Platform Settings
-
-#### 📊 General Configuration
-
-```
-[SETTINGS PANEL]
-┌─────────────────────────────────┐
-│  ⚙️ Platform Settings           │
-│                                 │
-│  🎯 Trading Preferences:         │
-│  • Default Position Size: $200   │
-│  • Auto Stop Loss: 2%           │
-│  • Auto Take Profit: 4%         │
-│  • Max Open Positions: 5        │
-│                                 │
-│  🤖 AI Settings:                 │
-│  • Confidence Threshold: 75%    │
-│  • Analysis Timeout: 30s        │
-│  • Memory Learning: ✅ ON       │
-│  • Auto-refresh: 5s             │
-│                                 │
-│  📊 Display Options:             │
-│  • Theme: Dark Mode             │
-│  • Animations: ✅ ON            │
-│  • Sound Alerts: ✅ ON          │
-│  • Compact View: ❌ OFF         │
-│                                 │
-│  🔔 Notification Settings:       │
-│  • Price Alerts: ✅ ON          │
-│  • Trade Notifications: ✅ ON   │
-│  • System Messages: ✅ ON       │
-│  • Sound Effects: 🔊 Medium     │
-└─────────────────────────────────┘
-```
 
 #### 🎛️ AutoBot Configuration
 
@@ -996,82 +867,13 @@ The AI uses memory to provide:
 └─────────────────────────────────┘
 ```
 
-### 🔧 Advanced Settings
-
-#### 📊 Data Management
-
-```
-[DATA MANAGEMENT]
-┌─────────────────────────────────┐
-│  💾 Data Management              │
-│                                 │
-│  📊 Storage Usage:               │
-│  • Trade History: 124 KB        │
-│  • AI Memory: 45 KB             │
-│  • Price Alerts: 12 KB          │
-│  • Settings: 8 KB               │
-│  • Total: 189 KB / 5 MB          │
-│                                 │
-│  🗂️ Data Operations:             │
-│  • [Export All Data]             │
-│  • [Import Data]                 │
-│  • [Clear Cache]                 │
-│  • [Reset All Settings]          │
-│  • [Backup to File]              │
-│                                 │
-│  ⏰ Auto-Cleanup:                 │
-│  • Old Trades: 90 days          │
-│  • Price Alerts: 30 days        │
-│  • AI Memory: 180 days          │
-│  • Cache Files: 7 days           │
-└─────────────────────────────────┘
-```
-
----
-
 ## 🔔 Price Alerts
 
 ### 🎯 Purpose
 Smart notification system that monitors cryptocurrency prices and alerts you when targets are reached.
 
-### 📸 Screenshot Reference
-```
-[INSERT PRICE ALERTS SCREENSHOT HERE]
-┌─────────────────────────────────────────┐
-│  🔔 Price Alerts - Browser Notifications │
-│                                         │
-│  ┌─────────────────────────────────┐    │
-│  │  ➕ Add New Alert               │    │
-│  │                                 │    │
-│  │  Coin: [BTC/USDT ▼]            │    │
-│  │  Condition: [Above ▼]          │    │
-│  │  Target Price: $45,000         │    │
-│  │                                 │    │
-│  │  [Add Alert]                    │    │
-│  └─────────────────────────────────┘    │
-│                                         │
-│  📊 Active Alerts:                   │
-│  ┌─────────┬─────────┬─────────┐        │
-│  │ Coin    │ Target  │ Status  │        │
-│  ├─────────┼─────────┼─────────┤        │
-│  │ BTC     │ $45,000 │ Active  │        │
-│  │ ETH     │ $2,500  │ Active  │        │
-│  │ SOL     │ $150    │ Fired   │        │
-│  └─────────┴─────────┴─────────┘        │
-│                                         │
-│  🔔 Recent Notifications:              │
-│  • SOL reached $150 (2 min ago)       │
-│  • BTC dropped to $42,000 (1h ago)    │
-│  • ETH hit $2,500 (3h ago)            │
-└─────────────────────────────────────────┘
-```
+<img width="431" height="349" alt="image" src="https://github.com/user-attachments/assets/a34b861d-ac43-45cf-8dca-483b962fe203" />
 
-**📸 Actual Screenshot Needed:**
-- Capture Price Alerts interface
-- Show alert creation form
-- Include active alerts table with status
-- Display recent notifications
-- Show browser notification example
 
 ### 🎯 Alert Types
 
@@ -1425,41 +1227,6 @@ The AI system incorporates multiple data sources:
 │  • -20% market: Portfolio -16%   │
 │  • -40% market: Portfolio -32%   │
 │  • Recovery time: 4-6 months     │
-└─────────────────────────────────┘
-```
-
-### 🔧 Customization Options
-
-#### 🎯 Personalized Settings
-
-```
-[PERSONALIZATION]
-┌─────────────────────────────────┐
-│  🎯 Personalization              │
-│                                 │
-│  👤 Trading Profile:              │
-│  • Experience: Intermediate      │
-│  • Risk Tolerance: Moderate       │
-│  • Trading Style: Swing          │
-│  • Time Horizon: 1-3 months      │
-│                                 │
-│  📊 Preferred Indicators:         │
-│  • Primary: RSI, MACD            │
-│  • Secondary: Bollinger Bands    │
-│  • Volume: VWAP, Volume Profile  │
-│  • Patterns: Candlestick patterns│
-│                                 │
-│  🎛️ Interface Preferences:        │
-│  • Theme: Dark mode              │
-│  • Layout: Compact               │
-│  • Animations: Smooth            │
-│  • Sounds: Essential only        │
-│                                 │
-│  ⏰ Trading Schedule:             │
-│  • Active Hours: 08:00-22:00     │
-│  • Timezone: UTC                 │
-│  • Weekend Trading: ❌ OFF        │
-│  • Holiday Mode: ✅ ON            │
 └─────────────────────────────────┘
 ```
 

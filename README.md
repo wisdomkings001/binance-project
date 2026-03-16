@@ -101,7 +101,7 @@ The AI Skills tab is your command center for generating professional trading sig
 
 ### 📸 Screenshot Reference
 ```
-[AI TAB SCREENSHOT]
+[INSERT AI TAB SCREENSHOT HERE]
 ┌─────────────────────────────────────────┐
 │  🤖 AI Skills - Market Analysis         │
 │  ┌─────────────────────────────────┐    │
@@ -117,6 +117,12 @@ The AI Skills tab is your command center for generating professional trading sig
 │  ⚖️ Risk/Reward: 1:2.3                 │
 └─────────────────────────────────────────┘
 ```
+
+**📸 Actual Screenshot Needed:**
+- Capture AI Skills tab with analysis results
+- Show recommendation panel with confidence score
+- Include entry/exit levels and risk/reward ratio
+- Highlight the "ANALYZE NOW" button
 
 ### 🔄 How It Works
 
@@ -186,7 +192,7 @@ Real-time market overview with live price updates, sorting capabilities, and det
 
 ### 📸 Screenshot Reference
 ```
-[MARKET TAB SCREENSHOT]
+[INSERT MARKET TAB SCREENSHOT HERE]
 ┌─────────────────────────────────────────┐
 │  📈 Market - Live Coin Grid             │
 │  ┌─────────┬─────────┬─────────┐        │
@@ -202,6 +208,12 @@ Real-time market overview with live price updates, sorting capabilities, and det
 │  🔍 [Search coins...]                  │
 └─────────────────────────────────────────┘
 ```
+
+**📸 Actual Screenshot Needed:**
+- Capture Market tab with live coin grid
+- Show sorting options (Volume, Gainers, Losers)
+- Include search bar functionality
+- Display real-time price updates with green/red changes
 
 ### 🔄 Real-Time Features
 
@@ -266,7 +278,7 @@ Conversational AI assistant for crypto education, market explanations, and tradi
 
 ### 📸 Screenshot Reference
 ```
-[BOT TAB SCREENSHOT]
+[INSERT BOT TAB SCREENSHOT HERE]
 ┌─────────────────────────────────────────┐
 │  🤖 Bot - AI Crypto Assistant           │
 │                                         │
@@ -291,6 +303,12 @@ Conversational AI assistant for crypto education, market explanations, and tradi
 │  └─────────────────────────────────┘    │
 └─────────────────────────────────────────┘
 ```
+
+**📸 Actual Screenshot Needed:**
+- Capture Bot tab with chat interface
+- Show quick prompt buttons
+- Include conversation history
+- Display input area with History/Clear buttons
 
 ### 🎯 Educational Focus
 
@@ -337,7 +355,7 @@ Complete trading interface with paper trading practice, automated trading, and l
 
 ### 📸 Screenshot Reference
 ```
-[TRADES TAB SCREENSHOT]
+[INSERT TRADES TAB SCREENSHOT HERE]
 ┌─────────────────────────────────────────┐
 │  💹 Trades - Paper Trading Engine       │
 │                                         │
@@ -360,6 +378,13 @@ Complete trading interface with paper trading practice, automated trading, and l
 │  [← Previous] [Page 1 of 3] [Next →]    │
 └─────────────────────────────────────────┘
 ```
+
+**📸 Actual Screenshot Needed:**
+- Capture Trades tab with portfolio overview
+- Show balance, P&L, win rate statistics
+- Include AutoBot status and settings button
+- Display open positions with P&L
+- Show trade history with pagination
 
 ### 💰 Paper Trading Features
 
@@ -513,7 +538,7 @@ Strategic investment planning tool for regular, systematic cryptocurrency purcha
 
 ### 📸 Screenshot Reference
 ```
-[DCA TAB SCREENSHOT]
+[INSERT DCA TAB SCREENSHOT HERE]
 ┌─────────────────────────────────────────┐
 │  ⬡ DCA - Dollar Cost Averaging         │
 │                                         │
@@ -542,6 +567,12 @@ Strategic investment planning tool for regular, systematic cryptocurrency purcha
 │  [Bar chart showing growth]           │
 └─────────────────────────────────────────┘
 ```
+
+**📸 Actual Screenshot Needed:**
+- Capture DCA tab with calculator interface
+- Show input fields (coin, amount, frequency, duration)
+- Include projection results panel
+- Display investment timeline chart
 
 ### 🎯 DCA Strategy Benefits
 
@@ -711,7 +742,7 @@ Comprehensive token safety assessment tool to identify risky assets before tradi
 
 ### 📸 Screenshot Reference
 ```
-[AUDIT TAB SCREENSHOT]
+[INSERT AUDIT TAB SCREENSHOT HERE]
 ┌─────────────────────────────────────────┐
 │  🔍 Audit - Token Safety Check          │
 │                                         │
@@ -743,6 +774,12 @@ Comprehensive token safety assessment tool to identify risky assets before tradi
 │  └─────────────────────────────────┘    │
 └─────────────────────────────────────────┘
 ```
+
+**📸 Actual Screenshot Needed:**
+- Capture Audit tab with token selection
+- Show audit results with safety score
+- Include risk metrics with color coding
+- Display recommendations and warnings
 
 ### 🛡️ Safety Assessment Framework
 
@@ -873,7 +910,7 @@ Self-learning system that tracks your trading patterns and provides smarter, dat
 
 ### 📸 Screenshot Reference
 ```
-[AI MEMORY PANEL]
+[INSERT AI MEMORY SCREENSHOT HERE]
 ┌─────────────────────────────────┐
 │  🧠 AI Memory                   │
 │                                 │
@@ -911,6 +948,13 @@ Self-learning system that tracks your trading patterns and provides smarter, dat
 │  [Clear Memory] [Export Data]    │
 └─────────────────────────────────┘
 ```
+
+**📸 Actual Screenshot Needed:**
+- Capture AI Memory panel with black background
+- Show overall performance statistics
+- Include win/loss breakdown with totals
+- Display coin-specific performance table
+- Show recent lessons learned section
 
 ### 🎯 Learning Mechanism
 
@@ -1195,7 +1239,7 @@ Smart notification system that monitors cryptocurrency prices and alerts you whe
 
 ### 📸 Screenshot Reference
 ```
-[PRICE ALERTS INTERFACE]
+[INSERT PRICE ALERTS SCREENSHOT HERE]
 ┌─────────────────────────────────────────┐
 │  🔔 Price Alerts - Browser Notifications │
 │                                         │
@@ -1224,6 +1268,13 @@ Smart notification system that monitors cryptocurrency prices and alerts you whe
 │  • ETH hit $2,500 (3h ago)            │
 └─────────────────────────────────────────┘
 ```
+
+**📸 Actual Screenshot Needed:**
+- Capture Price Alerts interface
+- Show alert creation form
+- Include active alerts table with status
+- Display recent notifications
+- Show browser notification example
 
 ### 🎯 Alert Types
 

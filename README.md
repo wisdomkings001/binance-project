@@ -6,7 +6,7 @@
 ![Binance Integration](https://img.shields.io/badge/Binance-Integrated-F3BA2F?style=for-the-badge&logo=binance&logoColor=black)
 ![Browser Native](https://img.shields.io/badge/Browser-Native-00D4FF?style=for-the-badge&logo=firefox&logoColor=white)
 ![AI Powered](https://img.shields.io/badge/AI-Powered-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
-![live page] (https://wisdomkings001.github.io/OpenClaw-ai/)
+                (https://wisdomkings001.github.io/OpenClaw-ai/)
 
 **Built for the Binance OpenClaw AI Build Competition (March 4–18, 2026)**
 
